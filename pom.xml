@@ -6,6 +6,7 @@
     <artifactId>play-java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>play-java</name>
+    <finalName>play-java</finalName>
     <description>Demo project for Spring Boot</description>
     <packaging>war</packaging>
     <properties>
